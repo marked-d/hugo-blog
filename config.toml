@@ -1,4 +1,4 @@
-baseurl      = "https://marked.github.io"
+baseurl      = "https://marked-d.github.io/hugo-blog/"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -11,7 +11,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Can I interst you in a Παστίτσιο Ντόλτσε recipe?"
+  homeSubtitle = "Can I interest you in a Παστίτσιο Ντόλτσε recipe?"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
