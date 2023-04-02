@@ -1,3 +1,3 @@
 # hugo-blog
-My hugo blog repo!
-[Blog](https://marked-d.github.io/hugo-blog/)
+My hugo blog repo! <br/>
+[Blog Link](https://marked-d.github.io/hugo-blog/)
